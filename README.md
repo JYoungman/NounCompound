@@ -7,6 +7,7 @@ passing a number as the second parameter. Will display generated words in the co
 addition to writing them to a plain text file with a name format of [language file filename][system time].txt
 
 Additional optional parameters that can be passed after the word count parameter:
+
 u - Only output unique words. Note that this works by removing redundant words from the output list, and
 may therefore output fewer words than the number specified.
 
